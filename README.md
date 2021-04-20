@@ -1,1 +1,3 @@
-THis is the repository that stores newly generated PineAPPL grids
+# PineAPPL grids for NNPDF
+In this repository grids generated from the
+[runcards](https://github.com/NNPDF/runcards) repository are stored.
