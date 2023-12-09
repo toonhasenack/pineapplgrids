@@ -1,0 +1,6 @@
+comment: g1/f1 FK-table for electron-isoscalar scattering for the JLAB experiment
+conversion_factor: 1.0
+operands:
+- - JLAB_NC_5GEV_ED_G1
+operation: 'null'
+target_dataset: JLAB_NC_5GEV_ED

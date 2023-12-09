@@ -1,0 +1,6 @@
+comment: g1 FK-table for electron-proton scattering for the COMPASS experiment
+conversion_factor: 1.0
+operands:
+- - COMPASS_NC_17GEV_MUP_G1
+operation: 'null'
+target_dataset: COMPASS_NC_17GEV_MUP

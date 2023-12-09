@@ -1,0 +1,6 @@
+comment: g1 FK-table for electron-isoscalar scattering for the E143 experiment
+conversion_factor: 1.0
+operands:
+- - E143_NC_8GEV_ED_G1
+operation: 'null'
+target_dataset: E143_NC_8GEV_ED

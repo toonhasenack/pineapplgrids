@@ -1,0 +1,6 @@
+comment: g1 FK-table for electron-neutron scattering for the E142 experiment
+conversion_factor: 1.0
+operands:
+- - E142_NC_58GEV_EN_G1
+operation: 'null'
+target_dataset: E142_NC_58GEV_EN

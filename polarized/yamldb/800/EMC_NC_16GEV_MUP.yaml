@@ -1,0 +1,6 @@
+comment: g1 FK-table for electron-proton scattering for the EMC experiment
+conversion_factor: 1.0
+operands:
+- - EMC_NC_16GEV_MUP_G1
+operation: 'null'
+target_dataset: EMC_NC_16GEV_MUP

@@ -1,0 +1,6 @@
+comment: g1/f1 FK-table for electron-neutron scattering for the E155 experiment
+conversion_factor: 1.0
+operands:
+- - E155_NC_9GEV_EN_G1
+operation: 'null'
+target_dataset: E155_NC_9GEV_EN
