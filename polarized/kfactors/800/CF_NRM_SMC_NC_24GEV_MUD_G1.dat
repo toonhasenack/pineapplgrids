@@ -1,7 +1,7 @@
 ********************************************************************************
 SetName: SMC_NC_24GEV_MUD
 Author: A.J. Hasenack
-Date: 2023-12-08
+Date: 2023-12-11
 CodesUsed: https://github.com/NNPDF/yadism
 TheoryInput: theory_800
 Warnings: 1/2x normalization for SMC_NC_24GEV_MUD

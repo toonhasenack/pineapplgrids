@@ -1,7 +1,7 @@
 ********************************************************************************
 SetName: E155_NC_9GEV_EP
 Author: A.J. Hasenack
-Date: 2023-12-04
+Date: 2023-12-11
 CodesUsed: https://github.com/NNPDF/yadism
 TheoryInput: theory_800
 PDFset: NNPDF40_nnlo_pch_as_01180
